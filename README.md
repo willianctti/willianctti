@@ -1,6 +1,6 @@
 ## Olá, eu sou o Willian! 👋
 
-🌱 Atualmente estou estudando <strong>React e Node.js</strong> <br>
+🌱 Atualmente estou estudando <strong>SQL e Node.js</strong> <br>
 😄 Em busca de um estágio/ Jr. DEV <br>
 📚 Cursando Análise e desenvolvimento de sistemas <br>
 📧 Me mande um e-mail! <strong> willianctti@gmail.com </strong>
