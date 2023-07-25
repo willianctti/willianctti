@@ -1,10 +1,10 @@
 ## Olá, eu sou o Willian! 👋
 
-🌱 Atualmente estou estudando <strong>Angular, Node.js e TypeScript.</strong> <br>
-😄 Em busca de um estágio/ Jr. DEV <br>
+🌱 Atualmente estou estudando <strong>Angular e Java.</strong> <br>
 📚 Cursando Análise e desenvolvimento de sistemas <br>
 📧 Me mande um e-mail! <strong> willianctti@gmail.com </strong>
-<h6> Projetos momentaneamente pausados devido a provas da faculdade </h6>
+<h2>Dá uma olhadinha nos meus projetos! </h2>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
