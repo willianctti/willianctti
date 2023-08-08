@@ -1,6 +1,6 @@
 ## Olá, eu sou o Willian! 👋
 
-🌱 Atualmente estou estudando <strong>Angular e Java.</strong> <strong> && Santander Bootcamp  </strong> <br>
+🌱 Atualmente estou estudando <strong>Angular, Java</strong> <strong> && Santander Bootcamp  </strong> <br>
 📚 Cursando Análise e desenvolvimento de sistemas <br>
 📧 Me mande um e-mail! <strong> willianctti@gmail.com </strong>
 <h2>Dá uma olhadinha nos meus projetos! </h2>
