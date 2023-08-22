@@ -3,7 +3,7 @@
 🌱 Atualmente estou estudando <strong>Angular, Java</strong> <strong> && Santander Bootcamp  </strong> <br>
 📚 Cursando Análise e desenvolvimento de sistemas <br>
 📧 Me mande um e-mail! <strong> willianctti@gmail.com </strong>
-<h2>Dá uma olhadinha nos meus projetos! </h2>
+<h2>Dê uma olhadinha nos meus projetos! </h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
