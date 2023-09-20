@@ -8,7 +8,7 @@
    HTML, CSS, SCSS, JavaScript, TypeScript, Node, Angular, Java e Git/Github.
  </p>
  <h4>
-  2023 Santander Bootcamp <br>
+  Santander Bootcamp 2023 <br>
   RocketSeat  <br>
   Udemy  <br>
   Microsoft build 2023  <br>
