@@ -7,6 +7,13 @@
  <p>
    HTML, CSS, SCSS, JavaScript, TypeScript, Node, Angular, Java e Git/Github.
  </p>
+ <h4>
+  2023 Santander Bootcamp <br>
+  RocketSeat  <br>
+  Udemy  <br>
+  Microsoft build 2023  <br>
+  
+ </h4>
 
 
 <h3 align="left">Connect with me</h3>
