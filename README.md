@@ -5,13 +5,14 @@
  Fora da área tec, alguns de meus hobbies são: Assistir, ler, tocar algum instrumento e jogar jogos on-line.</p>
 
  <p>
-   HTML, CSS, SCSS, JavaScript, TypeScript, Node, Angular, Java e Git/Github. SQL, MySQL e MongoDB.
+   HTML, CSS, SCSS, JavaScript, TypeScript, Node, Angular, Java, PHP e Git/Github. PostGreSQL, SQL, MySQL e MongoDB.
  </p>
  <h4>
   Santander Bootcamp 2023 <br>
+  Microsoft build 2023  <br>
   RocketSeat  <br>
   Udemy  <br>
-  Microsoft build 2023  <br>
+
   
  </h4>
 
