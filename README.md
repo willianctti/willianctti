@@ -1,6 +1,6 @@
 ## Olá, eu sou o Willian! 👋
 
-<p align="justify">Estudante de programação e desenvolvimento. Paraná, Curitiba, Brasil. Cursando graduação de Analise e desenvolvimento de sistemas. 
+<p align="justify">Desenvolvedor front-end | MindTech | Sistema FIEP. Paraná, Curitiba, Brasil. Cursando graduação de Analise e desenvolvimento de sistemas. 
 <br>
  Fora da área tec, alguns de meus hobbies são: Assistir, ler, tocar algum instrumento e jogar jogos on-line.</p>
 
