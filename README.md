@@ -11,6 +11,7 @@
   Santander Bootcamp 2023 <br>
   Santander Bootcamp 2024 <br>
   Microsoft build 2023  <br>
+  43 certificados na área de desenvolvimento <br>
   RocketSeat  <br>
   Udemy  <br>
 
