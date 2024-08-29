@@ -28,8 +28,9 @@
 <div align="center">
 <h3 align="center">GitHub Stats</h3>
 
+ [![WILLIAN's github stats](https://bad-apple-github-readme.vercel.app/api?username=willianctti&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
-<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=willianctti&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/willianctti/github-readme-stats)-->
+
 <br>
 
 
