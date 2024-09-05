@@ -14,7 +14,7 @@ Sou apaixonado por tecnologia e estou sempre buscando novos desafios para aprimo
 ## 📚 Formação e Certificações
 - **Santander Bootcamp 2023 & 2024**
 - **Microsoft Build 2023**
-- **43 Certificados na Área de Desenvolvimento**
+- **45 Certificados na Área de Desenvolvimento**
 - **RocketSeat** & **Udemy**
 
 ## 🎯 Objetivos
