@@ -5,6 +5,9 @@
 
 Sou apaixonado por tecnologia e estou sempre buscando novos desafios para aprimorar minhas habilidades. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, e fora do ambiente de trabalho, gosto de explorar hobbies como assistir, ler, tocar instrumentos musicais e jogar jogos online.
 
+## Portfólio
+<a >https://portfolio-v2-seven-indol.vercel.app/ </a>
+
 ## 🛠️ Tecnologias e Ferramentas
 - **Front-end & Mobile**: HTML, CSS, SCSS, JavaScript, TypeScript, Angular, React, React Native, Next.js
 - **Back-end**: Node.js, Java, PHP, Java Spring Web, Spring Security, JPA, WebSocket
