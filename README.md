@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Willian Nicoletti
 
-### Desenvolvedor Front-end && Mobile | **MindTech** | **Sistema FIEP**  
+### Desenvolvedor Front-end, back-end && Mobile | **MindTech** | **Sistema FIEP**  
 📍 **Curitiba, Paraná, Brasil**
 
 Sou apaixonado por tecnologia e estou sempre buscando novos desafios para aprimorar minhas habilidades. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, e fora do ambiente de trabalho, gosto de explorar hobbies como assistir, ler, tocar instrumentos musicais e jogar jogos online.
