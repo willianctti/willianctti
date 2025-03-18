@@ -9,7 +9,7 @@ Sou apaixonado por tecnologia e estou sempre buscando novos desafios para aprimo
 <a >https://portfolio-v2-seven-indol.vercel.app/ </a>
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Front-end & Mobile**: HTML, CSS, SCSS, JavaScript, TypeScript, Angular, React, React Native, Next.js
+- **Front-end & Mobile**: HTML, CSS, SCSS, JavaScript, TypeScript, Angular, React, React Native, Next.js, Svelte
 - **Back-end**: Node.js, Java, PHP, Java Spring Web, Spring Security, JPA, WebSocket
 - **Banco de Dados**: PostgreSQL, SQL, MySQL, MongoDB
 - **Controle de Versão**: Git/Github
