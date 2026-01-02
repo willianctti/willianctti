@@ -10,7 +10,7 @@
   </p>
 
   <p align="left">
-    Sou apaixonado por tecnologia e arquitetura de sistemas. Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>, foco em criar soluções escaláveis e criativas, além de projetos divertidos fixados.
+    Sou apaixonado por tecnologia e arquitetura de sistemas. Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>, foco em criar soluções escaláveis, craitivas e divertidas.
   </p>
 
   <p align="left">
@@ -26,16 +26,17 @@
 
 | Categoria | Stack |
 | :--- | :--- |
-| **Front-end & UI** | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| **Back-end & Infra** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Java Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-FF9900?style=flat-square) |
-| **Comunicação & Real-time** | ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) ![SSE](https://img.shields.io/badge/SSE_Events-FFA500?style=flat-square) ![Hardware_Integration](https://img.shields.io/badge/Hardware_Integr.-555555?style=flat-square) |
-| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) |
+| **Mobile Nativo & Híbrido** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
+| **Front-end & UI** | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Back-end & Infra** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Java Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **Comunicação & Data** | ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
 
 ---
 
-- 🔌 **Integração com Hardware:** Experiência em conectar sistemas com dispositivos físicos.
-- 📡 **Real-time Data:** Implementação de fluxos contínuos de dados usando **WebSockets** e **Server-Sent Events (SSE)**.
-- ☁️ **Cloud & Scale:** Conhecimento em arquitetura de **Microserviços** e deploy em ambiente **AWS**.
+- 📱 **Mobile Integrations:** Desenvolvimento com **React Native** e integração de módulos nativos em **Kotlin** e **Swift**.
+- 🔌 **Hardware & IOT:** Experiência em conectar sistemas com dispositivos físicos e hardware.
+- 📡 **Real-time Engine:** Domínio de fluxos contínuos de dados com **WebSockets** e **SSE**.
+- ☁️ **Cloud Architecture:** Projetos baseados em **Microserviços** com deploy em ambiente **AWS**.
 
 ---
 
