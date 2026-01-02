@@ -34,9 +34,7 @@ Sempre em busca de novos conhecimentos, meu foco atual é expandir minhas habili
 <div align="center">
 <h3 align="center">GitHub Stats</h3>
 
- [![WILLIAN's github stats](https://bad-apple-github-readme.vercel.app/api?username=willianctti&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
-
-
+[![Willian's github stats](https://github-readme-stats.vercel.app/api?username=willianctti&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
