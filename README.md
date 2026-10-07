@@ -10,7 +10,7 @@
   </p>
 
   <p align="left">
-    Sou apaixonado por tecnologia e arquitetura de sistemas. Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>, foco em criar soluções escaláveis, craitivas e divertidas.
+    Sou apaixonado por tecnologia e arquitetura de sistemas. formado em <b>Análise e Desenvolvimento de Sistemas</b>, foco em criar soluções escaláveis, craitivas e divertidas.
   </p>
 
   <p align="left">
